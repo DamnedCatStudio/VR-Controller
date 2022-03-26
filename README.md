@@ -28,3 +28,8 @@ The moveSpeed, rotateSpeed, floats set how fast the object will move and rotate.
 The moveVelocityMinimumThreshold and rotateVelocityMinimumThreshold floats sets the minimun velocity required for the movment and rotation to initiate.
 
 The invertControls bool will do just that. It will invert the move and rotation directions. I added this so that you can quickly and easily change them depending on if the gameObjectToMove is the player or a different object.
+
+Controls:
+Push and hold one of the grip buttons. as you move the controller the object set as the gameObjectToMove will move around in the direction the controller is moving. If not check the invertControlls bool.
+
+Push and hold both grip buttons and move the controller to rotate the object set as the gameObjectToMove.
