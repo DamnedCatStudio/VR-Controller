@@ -1073,6 +1073,94 @@
                     "isPartOfComposite": false
                 }
             ]
+        },
+        {
+            "name": "OculusControllerPositionVelocity",
+            "id": "30b55793-00d6-4586-9ae9-80821a0ef08d",
+            "actions": [
+                {
+                    "name": "RightPosition",
+                    "type": "Value",
+                    "id": "07f7fb38-c518-41a0-9a0b-f7d4b325c9f7",
+                    "expectedControlType": "Vector3",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "LeftPosition",
+                    "type": "Value",
+                    "id": "31540c52-9a73-4460-b6ee-b10211d75adc",
+                    "expectedControlType": "Vector3",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "RightVelocity",
+                    "type": "Value",
+                    "id": "15a31228-6cc5-4f3b-abb3-77a5d70cfbe8",
+                    "expectedControlType": "Vector3",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "LeftVelocity",
+                    "type": "Value",
+                    "id": "454b93bf-3c97-4712-8614-d985200254de",
+                    "expectedControlType": "Vector3",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "6b19ea82-b4d1-49b8-aae6-5c219749cf34",
+                    "path": "<OculusTouchController>{RightHand}/devicePosition",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RightPosition",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "99d70619-f4ca-4e72-b960-22cdcaaf0a45",
+                    "path": "<OculusTouchController>{RightHand}/deviceVelocity",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RightVelocity",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "cd7f0aed-c384-455d-a3b0-db759ccf034d",
+                    "path": "<OculusTouchController>{LeftHand}/devicePosition",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LeftPosition",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "90b0d749-49f3-4901-9601-cb702ad50e91",
+                    "path": "<OculusTouchController>{LeftHand}/deviceVelocity",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LeftVelocity",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
         }
     ],
     "controlSchemes": [
