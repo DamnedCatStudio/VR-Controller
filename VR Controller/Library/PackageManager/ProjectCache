@@ -5,27 +5,27 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637838490328995156
-    m_Hash: 4027432299
+      ticks: 637838494573538504
+    m_Hash: 986591800
   m_LockFileStatus:
     m_FilePath: D:/GitHub/VR-Controller/VR Controller/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637838490399169362
-    m_Hash: 3508394250
+      ticks: 637838494573693541
+    m_Hash: 4143951679
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
   m_Packages:
     m_ResolvedPackages:
-    - packageId: com.unity.collab-proxy@1.15.12
+    - packageId: com.unity.collab-proxy@1.15.15
       testable: 0
       isDirectDependency: 1
-      version: 1.15.12
+      version: 1.15.15
       source: 1
-      resolvedPath: D:\GitHub\VR-Controller\VR Controller\Library\PackageCache\com.unity.collab-proxy@1.15.12
+      resolvedPath: D:\GitHub\VR-Controller\VR Controller\Library\PackageCache\com.unity.collab-proxy@1.15.15
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
       displayName: Version Control
@@ -143,13 +143,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637789721280000000
+      datePublishedTicks: 637828649420000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.cloud.collaborate.git
-        revision: 5ca1fd4ca9f999e087d19e98afaf99905a582771
+        revision: abf10445fb869983dbe4f8f87ec63c58f4cd36e0
         path: 
     - packageId: com.unity.ide.rider@2.0.7
       testable: 0
@@ -238,7 +238,7 @@ m_PackageAssets:
         version: 1.1.1
       resolvedDependencies:
       - name: com.unity.test-framework
-        version: 1.1.29
+        version: 1.1.31
       - name: com.unity.ext.nunit
         version: 1.0.6
       - name: com.unity.modules.imgui
@@ -329,7 +329,7 @@ m_PackageAssets:
         version: 1.1.9
       resolvedDependencies:
       - name: com.unity.test-framework
-        version: 1.1.29
+        version: 1.1.31
       - name: com.unity.ext.nunit
         version: 1.0.6
       - name: com.unity.modules.imgui
@@ -357,12 +357,12 @@ m_PackageAssets:
         url: 
         revision: 
         path: 
-    - packageId: com.unity.ide.vscode@1.2.4
+    - packageId: com.unity.ide.vscode@1.2.5
       testable: 0
       isDirectDependency: 1
-      version: 1.2.4
+      version: 1.2.5
       source: 1
-      resolvedPath: D:\GitHub\VR-Controller\VR Controller\Library\PackageCache\com.unity.ide.vscode@1.2.4
+      resolvedPath: D:\GitHub\VR-Controller\VR Controller\Library\PackageCache\com.unity.ide.vscode@1.2.5
       assetPath: Packages/com.unity.ide.vscode
       name: com.unity.ide.vscode
       displayName: Visual Studio Code Editor
@@ -422,13 +422,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637660806170000000
+      datePublishedTicks: 637800255360000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
-        url: git+https://github.com/Unity-Technologies/com.unity.ide.vscode.git
-        revision: 1f4f605d5c988cb610c372b5c5216c46cc8f5d30
+        url: https://github.com/Unity-Technologies/com.unity.ide.vscode.git
+        revision: b0740c80bfc2440527c317109f7c3d9100132722
         path: 
     - packageId: com.unity.learn.iet-framework@1.2.3
       testable: 0
@@ -582,12 +582,12 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/iet-package.git
         revision: d8844989d65f92c6dede187e8149d129ac4f6a41
         path: 
-    - packageId: com.unity.test-framework@1.1.29
+    - packageId: com.unity.test-framework@1.1.31
       testable: 0
       isDirectDependency: 1
-      version: 1.1.29
+      version: 1.1.31
       source: 1
-      resolvedPath: D:\GitHub\VR-Controller\VR Controller\Library\PackageCache\com.unity.test-framework@1.1.29
+      resolvedPath: D:\GitHub\VR-Controller\VR Controller\Library\PackageCache\com.unity.test-framework@1.1.31
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
       displayName: Test Framework
@@ -673,13 +673,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637647922650000000
+      datePublishedTicks: 637804266210000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
-        url: git+https://github.com/Unity-Technologies/com.unity.test-framework.git
-        revision: dac53542acdab7a12e9ebf111ac588d0e53cf483
+        url: https://github.com/Unity-Technologies/com.unity.test-framework.git
+        revision: 438b0defc147c9be5c969ca79ff03a722b4590ed
         path: 
     - packageId: com.unity.textmeshpro@3.0.6
       testable: 0
@@ -1076,12 +1076,12 @@ m_PackageAssets:
         url: 
         revision: 
         path: 
-    - packageId: com.unity.xr.management@4.2.0
+    - packageId: com.unity.xr.management@4.2.1
       testable: 0
       isDirectDependency: 1
-      version: 4.2.0
+      version: 4.2.1
       source: 1
-      resolvedPath: D:\GitHub\VR-Controller\VR Controller\Library\PackageCache\com.unity.xr.management@4.2.0
+      resolvedPath: D:\GitHub\VR-Controller\VR Controller\Library\PackageCache\com.unity.xr.management@4.2.1
       assetPath: Packages/com.unity.xr.management
       name: com.unity.xr.management
       displayName: XR Plugin Management
@@ -1205,13 +1205,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637704350680000000
+      datePublishedTicks: 637769778170000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/xr.sdk.management.git
-        revision: c8fb6583d6d04516909a8d2ab999a1dbe90ade50
+        revision: 9c99228887ff65cc0729434b3b9371d22b707cb9
         path: 
     - packageId: com.unity.xr.oculus@1.11.2
       testable: 0
@@ -1304,7 +1304,7 @@ m_PackageAssets:
         version: 1.0.0
       resolvedDependencies:
       - name: com.unity.xr.management
-        version: 4.2.0
+        version: 4.2.1
       - name: com.unity.modules.subsystems
         version: 1.0.0
       - name: com.unity.modules.jsonserialize
@@ -1353,12 +1353,12 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/xr.sdk.oculus.git
         revision: 7af62e510d11a78d5a56b974b22a918e89018d7f
         path: 
-    - packageId: com.unity.xr.windowsmr@4.6.1
+    - packageId: com.unity.xr.windowsmr@4.6.2
       testable: 0
       isDirectDependency: 1
-      version: 4.6.1
+      version: 4.6.2
       source: 1
-      resolvedPath: D:\GitHub\VR-Controller\VR Controller\Library\PackageCache\com.unity.xr.windowsmr@4.6.1
+      resolvedPath: D:\GitHub\VR-Controller\VR Controller\Library\PackageCache\com.unity.xr.windowsmr@4.6.2
       assetPath: Packages/com.unity.xr.windowsmr
       name: com.unity.xr.windowsmr
       displayName: Windows XR Plugin
@@ -1458,7 +1458,7 @@ m_PackageAssets:
       - name: com.unity.modules.xr
         version: 1.0.0
       - name: com.unity.xr.management
-        version: 4.2.0
+        version: 4.2.1
       - name: com.unity.xr.legacyinputhelpers
         version: 2.1.8
       - name: com.unity.subsystemregistration
@@ -1488,13 +1488,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637729271880000000
+      datePublishedTicks: 637789692120000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/xr.sdk.windowsmr.git
-        revision: 0304c3170dd5daa4c5f5e60b37cc04e79bb7a4bd
+        revision: 13bd9429ff1512b4a7efaaba095c90f1af17f40e
         path: 
     - packageId: com.unity.modules.ai@1.0.0
       testable: 0
